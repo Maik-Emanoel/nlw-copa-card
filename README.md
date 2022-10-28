@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-[Clique aqui para acessar]()
+[Clique aqui para acessar](https://maik-emanoel.github.io/nlw-copa-card/)
 
 ## 💻 Projeto
 Projeto de um Simple Card de estudante da Rocketseat com o tema da Copa do Mundo. Com troca de tema de cartão dinâmica ao clicar nele e layout totalmente responsivo.
