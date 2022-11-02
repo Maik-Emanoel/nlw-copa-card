@@ -30,7 +30,7 @@ header {
   user-select: none;
   -webkit-user-select: none;
 
-  animation: appear .7s .7s backwards;
+  animation: appear .7s 1.3s backwards;
 }
 
 .card > img {
